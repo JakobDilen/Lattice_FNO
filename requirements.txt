@@ -1,0 +1,3 @@
+git+https://github.com/dnuy/neuraloperator.git@feature/index-sets-lattice-fft
+torch==2.5.0
+torchvision
